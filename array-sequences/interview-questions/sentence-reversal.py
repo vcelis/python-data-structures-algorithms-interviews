@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+'''Sentence Reversal
+
+Given a string of words, reverse all the words.
+'''
 from nose.tools import assert_equal
 
 

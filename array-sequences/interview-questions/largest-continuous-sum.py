@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+'''Largest Continuous Sum
+
+Given an array of integers (positive and negative) find the largest
+continuous sum.
+'''
 from nose.tools import assert_equal
 
 

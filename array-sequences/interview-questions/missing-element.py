@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+'''Find the Missing Element
+
+Consider an array of non-negative integers. A second array is formed by
+shuffling the elements of the first array and deleting a random element.
+Given two arrays, find which element is missing in the second array.
+'''
 from nose.tools import assert_equal
 import collections
 
